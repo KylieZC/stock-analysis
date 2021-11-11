@@ -23,13 +23,11 @@ The below graph shows many scheduled comments on each step. Also, it is efficien
 3. Set a loop to loop over all the rows by increasing the current volume in the code. 图
 
 ## Summary
-
-### There is a detailed statement on the advantages and disadvantages of refactoring code in general.
 ### Advantage of refactored code
 1. Improve code readability and reduce complexity to run the code faster.
 2. The refactoring process is helpful for future maintenance or for adding new functions efficiently.
 
-#### Disadvantage of refactored code
+### Disadvantage of refactored code
 1. As the number of track stock symbols increase, the number of arrays we create may affect the memory allocated to run macros. 
 2. The procedure always needs to redesign, changed and delete many steps.
 
