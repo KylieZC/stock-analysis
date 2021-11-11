@@ -35,4 +35,5 @@ The below graph shows many scheduled comments on each step. Also, it is efficien
 
 ### How do these pros and cons apply to refactoring the original VBA script?
 First, think about whether our code is easy for people to understand with a clear idea, logic, and comments. Second, is there a more efficient way of writing to make the code run faster, even when there is a lot of data？
+
 If so, we need to refactor our code to make it cozier to process. 
