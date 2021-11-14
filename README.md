@@ -10,7 +10,11 @@ This analysis used complex logic programming language(VBA) to calculate each tic
 ## Analysis
 ### Stock Performance
 The screenshots below give information about 12 stocks performances within the energy industry in 2017 and 2018. The data indicate that all stocks had a positive return except TERP stock in 2017. However, only ENPH and RUN stock earned a positive return in 2018. Remarkably, only RUN stock dramatically increased from 2017 to 2018 from 5.5% to 84%.
+
+2017 Stock Performances
 ![VBA_Challenge_2017](resources/VBA_Challenge_2017.png)
+
+2018 Stock Performances
 ![VBA_Challenge_2018](resources/VBA_Challenge_2018.png)
 
 
