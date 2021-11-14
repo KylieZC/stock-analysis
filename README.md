@@ -31,6 +31,7 @@ After refactoring the code, I found the running speed became faster. The refacto
 
 2. search specific years by just clicking the macro button based on one refactored code. 
 ![resources/macro_year_value](resources/macro_year_value.png)
+ 
 Macro button
 ![resources/macro_button](resources/macro_button.png)
 
