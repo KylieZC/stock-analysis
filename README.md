@@ -31,7 +31,7 @@ After refactoring the code, I found the running speed became faster. The refacto
 
 2. The below graph shows many scheduled comments on each step. Also, it is efficient for Steve to understand and search specific years by just clicking the macro button based on one refactored code. ![resources/initialize](resources/initialize.png)
 
-3. Set a loop to loop over all the rows by increasing the current volume in the code. ![resources/increase current volumn](resources/increase current volumn.png)
+3. Set a loop to loop over all the rows by increasing the current volume in the code.![resources/increase_current_volumn](resources/increase_current_volumn.png)
 
 ## Summary
 ### Advantage of refactored code
