@@ -8,22 +8,25 @@ This analysis used complex logic programming language(VBA) to calculate each tic
 
 ## Analysis
 ### Stock Performance
+The screenshots give information about 12 stocks performances within the energy industry in 2017 and 2018. The data indicate that all stocks had a positive return except TERP stock in 2017. However, only ENPH and RUN stock earned a positive return in 2018. Remarkably, only RUN stock dramatically increased from 2017 to 2018 from 5.5% to 84%.
 ![VBA_Challenge_2017](resources/VBA_Challenge_2017.png)
 ![VBA_Challenge_2018](resources/VBA_Challenge_2018.png)
 
-The screenshots give information about 12 stocks performances within the energy industry in 2017 and 2018. The data indicate that all stocks had a positive return except TERP stock in 2017. However, only ENPH and RUN stock earned a positive return in 2018. Remarkably, only RUN stock dramatically increased from 2017 to 2018 from 5.5% to 84%.
 
 ### Execution Times Comparasion
+After refactoring the code, I found the running speed became faster. The refactored script has six times faster than the original one in both two years.
 ![Refactor_2017](resources/Refactor_2017.png)
 ![Original_2017](resources/Original_2017.png)
 ![Refactor_2018](resources/Refactor_2018.png)
 ![Original_2018](resources/Original_2018.png)
-After refactoring the code, I found the running speed became faster. The refactored script has six times faster than the original one in both two years.
+
 
 
 ### Advantages of refactored code:
 1. Explicit comments help refactoring code is easy to read, understand and maintain later. Also, for facilitating subsequent stock analysis, Steve can simply add stock data for other industries.![resources/macro year value](resources/macro year value.png)
+2. 
 The below graph shows many scheduled comments on each step. Also, it is efficient for Steve to understand and search specific years by just clicking the macro button based on one refactored code. ![resources/initialize](resources/initialize.png)
+
 3. Set a loop to loop over all the rows by increasing the current volume in the code. ![resources/increase current volumn](resources/increase current volumn.png)
 
 ## Summary
