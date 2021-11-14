@@ -48,7 +48,7 @@ Macro button
 ## Summary
 ### Advantage of refactored code
 1. Improve code readability and reduce complexity to run the code faster. In addition, it makes the code clean and organized. 
-2. The refactoring process is helpful for the producer or someone else future maintenance or for adding new functions.
+2. The refactoring process is helpful for the producer or someone else future maintenance or for adding new functions. It saves time for code updating and improves working efficiency. 
 
 ### Disadvantage of refactored code
 1. As the number of track stock symbols increase, the number of arrays we create may affect the memory allocated to run macros. 
