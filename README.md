@@ -20,7 +20,7 @@ The screenshots below give information about 12 stocks performances within the e
 
 
 ### Execution Times Comparasion
-After refactoring the code, I found the running speed became faster. The refactored script has over 28 times faster than the original one in both two years.
+After refactoring the code, I found the running speed became faster. The refactored script has over **28** times faster than the original one in both two years.
 
 2017 original compare to 2017 refactor
 ![Original_2017](resources/Original_2017.png)
