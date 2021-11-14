@@ -15,8 +15,10 @@ The screenshots below give information about 12 stocks performances within the e
 
 ### Execution Times Comparasion
 After refactoring the code, I found the running speed became faster. The refactored script has six times faster than the original one in both two years.
+2017 original compare to 2017 refactor
 ![Refactor_2017](resources/Refactor_2017.png) 
 ![Original_2017](resources/Original_2017.png)
+2018 original compare to 2018 refactor
 ![Refactor_2018](resources/Refactor_2018.png)
 ![Original__2018](resources/Original__2018.png)
 
@@ -24,8 +26,8 @@ After refactoring the code, I found the running speed became faster. The refacto
 
 ### Advantages of refactored code:
 1. Explicit comments help refactoring code is easy to read, understand and maintain later. Also, for facilitating subsequent stock analysis, Steve can simply add stock data for other industries.![resources/macro year value](resources/macro year value.png)
-2. 
-The below graph shows many scheduled comments on each step. Also, it is efficient for Steve to understand and search specific years by just clicking the macro button based on one refactored code. ![resources/initialize](resources/initialize.png)
+
+2. The below graph shows many scheduled comments on each step. Also, it is efficient for Steve to understand and search specific years by just clicking the macro button based on one refactored code. ![resources/initialize](resources/initialize.png)
 
 3. Set a loop to loop over all the rows by increasing the current volume in the code. ![resources/increase current volumn](resources/increase current volumn.png)
 
