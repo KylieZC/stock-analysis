@@ -24,11 +24,11 @@ After refactoring the code, I found the running speed became faster. The refacto
 
 2017 original compare to 2017 refactor
 ![Original_2017](resources/Original_2017.png)
-![resources/2017refactored](resources/2017refactored.png)
+![resources/Refactored_2017](resources/Refactored_2017.png)
 
 2018 original compare to 2018 refactor
 ![Original__2018](resources/Original__2018.png)
-![resources/2018refactored](resources/2017refactored.png)
+![resources/Refactored_2018](resources/Refactored_2018.png)
 
 
 
