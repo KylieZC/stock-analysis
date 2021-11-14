@@ -29,7 +29,10 @@ After refactoring the code, I found the running speed became faster. The refacto
 ### Advantages of refactored code:
 1. Explicit comments help refactoring code is easy to read, understand and maintain later. Also, for facilitating subsequent stock analysis, Steve can simply add stock data for other industries.![resources/initialize](resources/initialize.png)
 
-2. search specific years by just clicking the macro button based on one refactored code. ![resources/macro_year_value](resources/macro_year_value.png)![resources/macro_button](resources/macro_button.png)
+2. search specific years by just clicking the macro button based on one refactored code. 
+![resources/macro_year_value](resources/macro_year_value.png)
+Macro button
+![resources/macro_button](resources/macro_button.png)
 
 3. Set a loop to loop over all the rows by increasing the current volume in the code.![resources/increase_current_volumn](resources/increase_current_volumn.png)
 
