@@ -40,14 +40,14 @@ Macro button
 
 ## Summary
 ### Advantage of refactored code
-1. Improve code readability and reduce complexity to run the code faster.
-2. The refactoring process is helpful for future maintenance or for adding new functions efficiently.
+1. Improve code readability and reduce complexity to run the code faster. In addition, it makes the code clean and organized. 
+2. The refactoring process is helpful for the producer or someone else future maintenance or for adding new functions.
 
 ### Disadvantage of refactored code
 1. As the number of track stock symbols increase, the number of arrays we create may affect the memory allocated to run macros. 
 2. The procedure always needs to redesign, changed and delete many steps.
 
 ### How do these pros and cons apply to refactoring the original VBA script?
-First, think about whether our code is easy for people to understand with a clear idea, logic, and comments. Second, is there a more efficient way of writing to make the code run faster, even when there is a lot of data？
+First, think about whether our code is easy for people to understand with a clear idea(comments). Second, is there a more efficient way of writing to make the code run faster, even when there is a lot of data？
 
 If so, we need to refactor our code to make it cozier to process. 
