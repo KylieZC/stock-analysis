@@ -18,7 +18,7 @@ After refactoring the code, I found the running speed became faster. The refacto
 ![Refactor_2017](resources/Refactor_2017.png) 
 ![Original_2017](resources/Original_2017.png)
 ![Refactor_2018](resources/Refactor_2018.png)
-![Original_2018](resources/Original_2018.png)
+![Original__2018](resources/Original__2018.png)
 
 
 
