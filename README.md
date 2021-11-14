@@ -5,7 +5,7 @@
 Steve's parents wanted to invest all their money in an energy stock, but without enough research, so they asked Steve to help. Steve also requests to analyze various energy industry stocks to find the best way to diversify their funds.
 
 ### Purpose
-This analysis used complex logic programming language(VBA) to calculate each tickers' annual return and total daily volume based on their historical data in 2017 and 2018.  
+This analysis used complex logic programming language(VBA) to calculate each tickers' annual return and total daily volume to analyze their performances based on their historical data in 2017 and 2018. Also, indicate different execution times on original and refactor script.
 
 ## Analysis
 ### Stock Performance
