@@ -23,11 +23,13 @@ The screenshots below give information about 12 stocks performances within the e
 After refactoring the code, I found the running speed became faster. The refactored script has six times faster than the original one in both two years.
 
 2017 original compare to 2017 refactor
-![Refactor_2017](resources/Refactor_2017.png) 
 ![Original_2017](resources/Original_2017.png)
+![Refactor_2017](resources/Refactor_2017.png)
+
 2018 original compare to 2018 refactor
-![Refactor_2018](resources/Refactor_2018.png)
 ![Original__2018](resources/Original__2018.png)
+![Refactor_2018](resources/Refactor_2018.png)
+
 
 
 
